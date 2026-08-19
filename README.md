@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer | AI Agent & IoT Enthusiast | Vibe Coder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_ANDA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adamarfa1210&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -42,19 +42,7 @@
 </p>
 
 ---
-'''
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-'''
 ### 📬 Connect with Me
 
 <p align="left">
